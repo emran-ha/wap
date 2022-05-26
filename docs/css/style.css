@@ -25,3 +25,12 @@
     line-height: 1;
 
 }
+.homeNavigation{
+   background-color: rgba(57, 43, 43, 0.529);
+   font-size: 100%;
+   border: 1px solid whitesmoke;
+   color: aliceblue;
+}
+.homeNavigation  a:first-child{
+    margin-left: 30px;
+}
