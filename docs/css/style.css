@@ -5,6 +5,9 @@
     top: -300px;
     position:relative;
 }
+#proof{
+    border-radius: 40%;
+}
 .backgroundimg{
     width: 100%;
     height: 50vh;
