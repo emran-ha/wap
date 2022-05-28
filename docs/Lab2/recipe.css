@@ -32,3 +32,20 @@ body{
     margin-top: 20px;
     border-bottom: 4px solid #F0F0F0;
 }
+#comments{
+    margin-top: 20px;
+    border-bottom: 4px solid #F0F0F0;  
+}
+#comments p{
+    font-style: italic;
+    background-color: yellow;
+}
+.footer{
+    bottom: 0;
+    height: 2.5rem; 
+    margin-left: 30px;
+  }
+  img#csslogo{
+    width: 60px;
+    height: 35px;
+}
