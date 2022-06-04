@@ -1,0 +1,59 @@
+
+header nav{
+    background-color: deepskyblue;
+    height: 40px;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    width: 50%;
+
+}
+#signout{
+    right: 3px;
+    position: absolute;
+}
+#greeting{
+    right: 100px;
+    position: absolute;
+}
+ul li{
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.input{
+    display: flex;
+    width: 100%;
+}
+.input1{
+    width: 50%;
+    margin-right: 40px;
+}
+.input2{
+    width: 50%;
+}
+.input input{
+    width: 100%;
+}
+#formbutton{
+    width: 80%;
+    display: flex;
+    justify-content: flex-end;
+}
+#formbutton li{
+    border: 2px solid white;
+    right: 3px;
+
+}
+
