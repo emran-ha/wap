@@ -1,0 +1,10 @@
+
+header{
+    display: flex;
+}
+#box{  
+    height: 30px;
+    width: 100px;
+    margin-left: 20px;
+    border: solid green 2px;
+}

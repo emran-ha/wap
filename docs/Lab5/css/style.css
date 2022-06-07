@@ -1,0 +1,11 @@
+.timer{
+    display: flex;
+    background-color: aquamarine;
+}
+
+.mytimer{
+    background-color: beige;
+    width: 100%;
+    display: flex;
+  
+}
